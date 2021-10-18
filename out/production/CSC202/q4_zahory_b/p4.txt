@@ -1,0 +1,9 @@
+A, VET 100, Anesthesia of Domestic Animals
+B, HIM 200, Clinical Practice I
+E, PTH 300, Therapeutic Procedures I
+F, ITP 400, C++ Programming I
+G, ADJ 500, Forensic Science II
+C, ACC 600, Accounting for Small Business
+D, ITN 700, Protocols and Communications TCP/IP
+H, LAT 800, Elementary Latin II
+I, EMS 900, Prehospital Trauma Life Support

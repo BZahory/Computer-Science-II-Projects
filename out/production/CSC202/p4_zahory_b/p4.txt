@@ -1,0 +1,11 @@
+a, VET 135, Anesthesia of Domestic Animals
+b, HIM 251, Clinical Practice I
+c, PTH 121, Therapeutic Procedures I
+d, ITP 132, C++ Programming I
+e, ADJ 172, Forensic Science II
+f, ACC 220, Accounting for Small Business
+g, ITN 208, Protocols and Communications TCP/IP
+h, LAT 102, Elementary Latin II
+i, EMS 163, Prehospital Trauma Life Support
+j, SOC 201, Introduction to Sociology I
+k, ENG 217, Creative Writing: Poetry I

@@ -1,0 +1,6 @@
+p, CSC 202, Computer Science II
+q, MTH 245, Statistics I
+r, ENG 230, Mystery in Literature & Film
+x, PHY 201, General College Physics I
+y, HUM 259, Greek Mythology
+z, CHM 241, Organic Chemistry I

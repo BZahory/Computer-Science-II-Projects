@@ -1,0 +1,31 @@
+PN: Do you want to be graded on Pass / No Pass grading system?
+4P: Submitted at least 4 projects?
+9/P: Earned at least 9 points each project?
+10/P: Earned at least 10 points each project?
+4Q: Submitted at least 4 quizzes?
+3/Q: Earned at least 3 points each quiz?
+4/Q: Earned at least 4 points each quiz?
+EX: Ask for extension at least 60% of the time for P and Q?
+3_12/12: Earned at least three 12/12?
+4_5/5: Earned at least 4 5/5?
+Ask: Do you ask questions in class?
+AA: Earned an A in both 200 & 201?
+P+: P+
+P-: P-
+A: A
+B: B
+C: C
+D: D
+WC: Withdrawal-COVID
+
+4_5/5:A:4/Q
+4/Q:A:B
+10/P:3/Q:9/P
+3/Q:B:Ask
+Ask:B:C
+9/P:B:EX
+EX:WC:D
+PN:4P:3_12/12
+4P:P+:4Q
+4Q:P+:P-
+3_12/12:4_5/5:10/P
